@@ -15,7 +15,7 @@ featured_image: /images/schmuck_geschichte-2560x500.jpg
 
 ### Ursprung in Südtirol {#section-ursprung}
 
-{{< figure src="/images/2018/06/muehlwald-2018-225x300.jpg" link="/images/2018/06/muehlwald-2018.jpg" target="\_blank" width="225" height="300" alt="Mühlwald" class="img-thumbnail alignright wp-image-74 size-medium" >}}
+{{< figure src="muehlwald-2018.jpg" link="muehlwald-2018.jpg" target="\_blank" width="225" height="300" alt="Mühlwald" class="img-thumbnail alignright wp-image-74 size-medium" >}}
 
 Das Geschlecht der Großgasteiger stammt aus Mühlwald im Mühlwalder Tal in Südtirol / Italien.
 
@@ -37,7 +37,7 @@ Kassian Großgasteiger geb: 11. August 1728 in Mühlwald heiratet am 8. Februar 
 
 Der Stammhof wird schon im ältesten Urbar des Kloster Sonnenburg von 1296 als der größere „Gastayg“ Hof Item 297 geführt. Der kleinere Gastayg Hof kam wahrscheinlich durch Heirat zum Großen, der dann GroßGassteiger Hof hieß. In der Folge wurde dann der kleinere Hof abgetragen.
 
-{{< figure src="/images/2018/06/stammhof_01-300x179.jpg" link="/images/2018/06/stammhof_01.jpg" target="\_blank" width="300" height="179" caption="Stammhof, heute" alt="Stammhof, heute" class="img-thumbnail alignleft wp-image-86 size-medium" >}}
+{{< figure src="stammhof_01.jpg" link="stammhof_01.jpg" target="\_blank" width="300" height="179" caption="Stammhof, heute" alt="Stammhof, heute" class="img-thumbnail alignleft wp-image-86 size-medium" >}}
 
 Dass der Stammhof ein sehr mächtiger war, kann man auch heute noch nachvollziehen, denn schon 1545 wurde Jörg GroßGassteiger im Efes Brief (Almrechte) erwähnt. Diese Alm ist auch heute noch eine der größten und ältesten.
 
@@ -47,7 +47,7 @@ Das Geschlecht der Großgasteiger und das Geschlecht der Unterhofer haben sich �
 
 Die letzte Großgasteiger Hoferbin, Maria Großgasteiger geb.17.10.1868 heiratete am 12.2.1901 Jakob Unterhofer geb. 12.7.1865; sie war die Großmutter vom derzeitigen Hofbesitzer Jakob Unterhofer geb.15.5.1951.
 
-{{< figure src="/images/2018/06/stammhof_1965-300x214.png" link="/images/2018/06/stammhof_1965.png" target="\_blank" width="300" height="214" caption="Stammhof 1965" alt="Stammhof 1965" class="img-thumbnail alignright wp-image-198 size-medium" >}}
+{{< figure src="stammhof_1965.png" link="stammhof_1965.png" target="\_blank" width="300" height="214" caption="Stammhof 1965" alt="Stammhof 1965" class="img-thumbnail alignright wp-image-198 size-medium" >}}
 
 Speziell ihm ist es zu verdanken, dass der Hof in seiner Ursprünglichkeit und Orginalität auch in der Einrichtung erhalten wurde und nicht, wie speziell nach dem 2. Weltkrieg üblich, der Versuchung unterlegen war, scheinbar modernes gegen alte Bausubstanz und Mobilar zu ersetzen.
 
@@ -85,7 +85,7 @@ Umso höher muss diese Leistung eingeschätzt werden, denn sie erhält wertvolls
 
 Das Wappen ist zum erstenmal datiert um 1669. Hier die neu gemalte Fassung mit den originalgetreuen Farben:
 
-{{< figure src="/images/2018/06/wappen-2018.png" link="/images/2018/06/wappen-2018.png" target="\_blank" width="500" height="603" alt="Wappen der Großgasetiger" class="aligncenter wp-image-76" >}}
+{{< figure src="wappen-2018.png" link="wappen-2018.png" target="\_blank" width="500" height="603" alt="Wappen der Großgasetiger" class="aligncenter wp-image-76" >}}
 
 Es symbolisiert die Vereinigung der zwei Gastayg-Höfe in Mühlwald.
 
