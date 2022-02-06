@@ -1,0 +1,9 @@
+{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+{{ $title := .Get "title" }}
+{{ $gallery := .Get "gallery" }}
+{{ $resized := $image.Fill "370x228" }}
+
+<a class="gallery-thumb" href="{{ $image.RelPermalink }}" data-title="{{ $title }}" data-lightbox="{{ $gallery }}" >
+	<img src="{{ $resized.RelPermalink }}" alt="{{ $title }}">
+</a>
+

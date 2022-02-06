@@ -1,0 +1,34 @@
+<footer class="container footer">
+	<nav class="nav-footer">
+		<ul id="menu-fusszeile" class="menu">
+			<!-- TODO Replace Links -->
+			<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="/kontakt/formular/">Kontakt</a></li>
+			<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="/impressum/">Impressum</a></li>
+			<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="/datenschutz/">Datenschutz</a></li>
+		</ul>
+	</nav>
+	<p><br>&copy; 2008 - {{ now.Format "2006" }} Heinz Großgasteiger und Frank Grossgasteiger</p>
+</footer>
+
+<button onclick="topFunction()" class="back-to-top" id="back-to-top" title="Nach oben scrollen">&#8593;</button>
+
+<script>
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+	if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		document.getElementById("back-to-top").style.display = "block";
+	} else {
+		document.getElementById("back-to-top").style.display = "none";
+	}
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+	document.body.scrollTop = 0;
+	document.documentElement.scrollTop = 0;
+}
+
+</script>

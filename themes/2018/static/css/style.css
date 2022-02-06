@@ -1,0 +1,324 @@
+/*
+Theme Name: Großgasteiger-2018
+Author: Frank Großgasteiger
+Description: Frischer, neuer und hoffentlich gut alternder Theme für die Familienseite.
+Version: 1.0.0
+Tags: bootstrap
+*/
+
+@font-face {
+    font-family: 'Timeless';
+    src: url('/fonts/Timeless-Normal.eot');
+    src: url('/fonts/Timeless-Normal.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Timeless-Normal.woff2') format('woff2'),
+        url('/fonts/Timeless-Normal.woff') format('woff'),
+        url('/fonts/Timeless-Normal.svg#Timeless-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Timeless';
+    src: url('/fonts/Timeless-Bold.eot');
+    src: url('/fonts/Timeless-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Timeless-Bold.woff2') format('woff2'),
+        url('/fonts/Timeless-Bold.woff') format('woff'),
+        url('/fonts/Timeless-Bold.svg#Timeless-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kabinett Fraktur';
+    src: url('/fonts/KabinettFraktur-Bold.eot');
+    src: url('/fonts/KabinettFraktur-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/KabinettFraktur-Bold.woff2') format('woff2'),
+        url('/fonts/KabinettFraktur-Bold.woff') format('woff'),
+        url('/fonts/KabinettFraktur-Bold.ttf') format('truetype'),
+        url('/fonts/KabinettFraktur-Bold.svg#KabinettFraktur-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kabinett Fraktur';
+    src: url('/fonts/KabinettFraktur.eot');
+    src: url('/fonts/KabinettFraktur.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/KabinettFraktur.woff2') format('woff2'),
+        url('/fonts/KabinettFraktur.woff') format('woff'),
+        url('/fonts/KabinettFraktur.ttf') format('truetype'),
+        url('/fonts/KabinettFraktur.svg#KabinettFraktur') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+Farbwerte nach Wappen:
+
+braun: #c1a871;
+blau: #4f6fb3;
+rosa: #ca758b;
+grün: #82c0b4;
+schwarz: #0d0912, rgb(10, 4, 6);
+*/
+
+.page {
+    border-top: 3px solid #ca758b;
+    color: #0d0912;
+    font-family: Timeless;
+}
+
+a, .nav-link, .menu-item {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+
+    color: #4f6fb3;
+}
+
+a:hover, .nav-link:hover, .menu-item a:hover {
+    border-bottom-color: #ca758b;
+    border-bottom-width: 1px;
+
+    color: #ca758b;
+    text-decoration: none !important;
+}
+
+a:active, a:focus, .active, .current_page_item a {
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+
+    color: black;
+}
+
+.header {
+    text-align: center;
+}
+
+.header-wappen {
+    display: inline;
+    height: 12rem;
+    margin: 1rem 2rem -2.5rem 2rem;
+}
+
+.header-banner {
+    color: #0d0912;
+}
+
+.header-banner:hover {
+    border-bottom-width: 0;
+    color: #0d0912;
+}
+
+.header-left {
+    text-align: right;
+}
+
+.header-h1 {
+    color: rgb(10, 4, 6);
+    font-family: 'Kabinett Fraktur', serif;
+    font-size: 4.5rem;
+    font-weight: 100;
+    margin-right: -3rem;
+    margin-top: 3rem;
+}
+
+.header-right {
+    text-align: left;
+}
+
+.header-nav {
+    margin-left: -3rem;
+    margin-top: 3rem;
+    vertical-align: middle;
+}
+
+.header-nav ul, .header-nav li, .nav-footer ul, .nav-footer li {
+    display: inline;
+}
+
+.header-nav-menu {
+    margin: 0;
+    padding: 0;
+}
+
+.header-nav .menu-item {
+    color: white;
+    font-size: 3rem;
+    font-weight: 100;
+    padding: 0 0.75rem 0 0;
+    vertical-align: middle;
+}
+
+.jumbotron { 
+    -webkit-box-shadow: inset 0px -1px 90px -19px rgba(0,0,0,0.72);
+    -moz-box-shadow: inset 0px -1px 90px -19px rgba(0,0,0,0.72);
+    box-shadow: inset 0px -1px 90px -19px rgba(0,0,0,0.72);
+
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+       
+    height: 50%;
+    padding: 0 !important;
+}
+
+.jumbotron-h2 {
+    display: block;
+    margin: 33% 0 -1rem;
+}
+
+.jumbotron-h2-span {
+    background-color: #4f6fb3;
+    color: white;
+    font-size: 4rem;
+    padding: 1rem;
+}
+
+.main {
+    font-size: 2rem;
+    margin-bottom: 3rem; 
+    text-align: justify;
+}
+
+.main h3 {
+    font-size: 3rem;
+    text-align: left;
+}
+
+.main li {
+    text-align: left;
+}
+
+.footer {
+    border-top: 1px solid black;
+    font-size: 2rem;
+    padding: 3rem;
+    text-align: center;
+}
+
+.footer a {
+    margin: 0 1rem;
+}
+
+.back-to-top {
+  	background-color: rgba(255, 255, 255, 0.3);
+  	border: 1px solid rgba(50, 50, 50, 0.3);
+  	border-radius: 0.2rem;
+  	bottom: 1rem;
+  	color:  rgba(50, 50, 50, 0.3);
+  	cursor: pointer;
+  	display: none;
+	font-size: 2rem;
+	font-weight: bold;
+  	padding: 0.5rem 1rem;
+  	position: fixed;
+  	right: 2rem;
+  	z-index: 99;
+}
+
+.back-to-top:hover {
+  	border: 1px solid rgba(255, 255, 255, 1.0);
+  	background-color: rgba(50, 50, 50, 1.0);
+  	color: rgba(255, 255, 255, 1.0);
+}
+
+
+/** Implements classes used by WordPress */
+.alignright {
+    float: right;
+    margin: 0 0 0 2rem;
+    text-align: right;
+}
+
+.alignleft {
+    float: left;
+    margin: 0 2rem 0 0;
+}
+
+.aligncenter {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+	text-align: center;
+}
+
+.wp-caption-text {
+    color: gray;
+    margin: 0 1rem;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}
+
+
+@media (max-width: 992px) {
+    .header-left {
+        text-align: center;
+    }
+    
+    .header-right {
+        text-align: center;
+    }
+    
+    .header-h1 {
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 1.5rem;
+    }
+    
+    .header-nav {
+        margin-bottom: 1.5rem;
+        margin-left: 0;
+        margin-right: -0.75rem;
+        margin-top: 0;
+    }
+
+    .header-wappen {
+        margin: 0;
+        position: absolute;
+        right: 0;
+        top: -30px;
+    }
+
+    .header-nav {
+    }
+}
+
+
+@media (max-width: 500px) {
+    .header-nav li, .footer a {
+        display: block;
+    }
+    
+    .header-wappen {
+        margin: 11rem 0 0 0;
+        padding: 0;
+        position: absolute;
+        right: 1rem;
+    }
+    
+    .alignleft, .alignright {
+        display: block;
+        float: none;
+        margin-bottom: 1rem;;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: left;
+    }
+
+    .alignleft, .alignright, .aligncenter {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .main h3 {
+        font-size: 3rem;
+        text-align: center;
+    }
+}

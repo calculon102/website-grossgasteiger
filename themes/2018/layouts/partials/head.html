@@ -1,0 +1,33 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	{{- $title := print .Site.Title " | " .Title -}}
+	{{- if .IsHome }}{{ $title = .Site.Title -}}{{- end -}}
+	<title>{{ $title }}</title>
+
+    <meta name="description" content="Geschichte und Aktuelles zur Familie der Großgasteiger">
+    <meta name="author" content="Frank Großgasteiger">
+
+	<link rel="icon" href="/images/cropped-favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" href="/images/cropped-favicon-192x192.png" sizes="192x192" />
+	<link rel="apple-touch-icon-precomposed" href="/images/cropped-favicon-180x180.png" />
+	<meta name="msapplication-TileImage" content="/images/cropped-favicon-270x270.png" />
+
+	<style type="text/css">
+	.jumbotron {
+		background-image: url("{{ .Params.featured_image }}");
+	}
+	</style>
+	
+	{{- if .Params.isGallery -}}		
+    <link type="text/css" rel="stylesheet" href="/lib/lightbox2-2.11.3/css/lightbox.min.css" />
+
+    <script src="/lib/lightbox2-2.11.3/js/lightbox-plus-jquery.min.js"></script>
+	{{- end -}}
+
+	{{- if .Params.is_wpForms -}}		
+    <link type="text/css" rel="stylesheet" href="/css/wpforms-full.css" />
+	{{- end -}}
+</head>
