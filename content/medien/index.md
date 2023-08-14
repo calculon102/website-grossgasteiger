@@ -12,13 +12,17 @@ isGallery: true
   * [Familientreffen 2008][1]
   * [Familientreffen 2013][2]
   * [Familientreffen 2018][3]
-  * [Web-Links][4]</nav> 
+  * [Festschriften und Dokumente][4]
+  * [Web-Links][5]</nav> 
 
-### Familientreffen 2008 {#section-treffen2008}
+### 1. Großgasteigertreffen am 6.-7. September 2008 {#section-treffen2008}
 
-1. Großgasteigertreffen am 6.-7. September 2008
+#### Medien
 
-[Video auf YouTube](http://www.youtube.com/watch?v=oFCVb6ORMXY)
+* [Festschrift von Heinz Großgasteiger](treffen-2008/festschrift-2008.pdf)
+* [Bericht des ORF (Externer Link)](http://www.youtube.com/watch?v=oFCVb6ORMXY)
+
+#### Bilder
 
 {{< gallery >}}
 
@@ -35,9 +39,15 @@ isGallery: true
 {{</ gallery >}}
 
 
-### Familientreffen 2013 {#section-treffen2013}
+### 2. Großgasteigertreffen 15.-16. Juni 2013 {#section-treffen2013}
 
-2. Großgasteigertreffen 15.-16. Juni 2013. Mit dem Bischof von Brixen und Bozen, Ivo Muser.
+Mit dem Bischof von Brixen und Bozen, Ivo Muser.
+
+#### Medien
+
+* [Festschrift von Heinz Großgasteiger](treffen-2013/festschrift-2013.pdf)
+
+#### Bilder
 
 {{< gallery >}}
 
@@ -60,9 +70,11 @@ isGallery: true
 {{</ gallery >}}
 
 
-### Familientreffen 2018 {#section-treffen2018}
+### 3. Großgasteigertreffen, 28.-29. Juli 2018 {#section-treffen2018}
 
-3. Großgasteigertreffen, 28.-29. Juli 2018 in Mühlwald.
+In Mühlwald.
+
+#### Bilder
 
 {{< gallery >}}
 
@@ -88,9 +100,12 @@ isGallery: true
 {{</ gallery >}}
 
 
-### Dokumente
+### Festschriften und Dokumente {#section-dokumente}
 
-[hausinventar\_franz\_grossgasteiger_1773.pdf](dokumente/hausinventar\_franz\_grossgasteiger_1773.pdf)
+* [Festschrift zum 1. Treffen von Heinz Großgasteiger](treffen-2008/festschrift-2008.pdf)
+* [Festschrift zum 2. Treffen von Heinz Großgasteiger](treffen-2013/festschrift-2013.pdf)
+* [Festschrift zum 725. Jubiläum der Großgasteiger](jubilaeum-2021/festschrift-725-jahre-grossgasteiger.pdf)
+* [Hausinventar des Franz Grossgasteiger von 1773](dokumente/hausinventar\_franz\_grossgasteiger_1773.pdf)
 
 
 ### Web-Links {#section-weblinks} 
@@ -124,7 +139,8 @@ isGallery: true
  [1]: #section-treffen2008
  [2]: #section-treffen2013
  [3]: #section-treffen2018
- [4]: #section-weblinks
+ [4]: #section-dokumente
+ [5]: #section-weblinks
  [6]: http://moesenhof.com
  [7]: http://grossgasteiger.com
  [8]: http://www.haus-niggles.at/

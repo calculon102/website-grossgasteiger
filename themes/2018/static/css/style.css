@@ -187,6 +187,10 @@ a:active, a:focus, .active, .current_page_item a {
     text-align: left;
 }
 
+.main h4 {
+	font-weight: bold;
+}
+
 .main li {
     text-align: left;
 }
