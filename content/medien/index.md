@@ -19,7 +19,7 @@ isGallery: true
 
 #### Medien
 
-* [Festschrift von Heinz Großgasteiger](treffen-2008/festschrift-2008.pdf)
+* [Festschrift zum 1. Treffen von Heinz Großgasteiger](treffen-2008/festschrift-2008.pdf)
 * [Bericht des ORF (Externer Link)](http://www.youtube.com/watch?v=oFCVb6ORMXY)
 
 #### Bilder
@@ -45,7 +45,7 @@ Mit dem Bischof von Brixen und Bozen, Ivo Muser.
 
 #### Medien
 
-* [Festschrift von Heinz Großgasteiger](treffen-2013/festschrift-2013.pdf)
+* [Festschrift zum 2. Treffen von Heinz Großgasteiger](treffen-2013/festschrift-2013.pdf)
 
 #### Bilder
 
@@ -73,6 +73,10 @@ Mit dem Bischof von Brixen und Bozen, Ivo Muser.
 ### 3. Großgasteigertreffen, 28.-29. Juli 2018 {#section-treffen2018}
 
 In Mühlwald.
+
+#### Medien
+
+* [Festschrift zum 3. Treffen von Heinz Großgasteiger](treffen-2018/festschrift-2018.pdf)
 
 #### Bilder
 
@@ -104,6 +108,7 @@ In Mühlwald.
 
 * [Festschrift zum 1. Treffen von Heinz Großgasteiger](treffen-2008/festschrift-2008.pdf)
 * [Festschrift zum 2. Treffen von Heinz Großgasteiger](treffen-2013/festschrift-2013.pdf)
+* [Festschrift zum 3. Treffen von Heinz Großgasteiger](treffen-2018/festschrift-2018.pdf)
 * [Festschrift zum 725. Jubiläum der Großgasteiger](jubilaeum-2021/festschrift-725-jahre-grossgasteiger.pdf)
 * [Hausinventar des Franz Grossgasteiger von 1773](dokumente/hausinventar\_franz\_grossgasteiger_1773.pdf)
 
